@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\RepositoryFacturation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|c:\\users\\fede\\desktop\\facu\\proyectos\\repositoryfacturation\\repositoryfacturation\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|solutionrelative:repositoryfacturation\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|c:\\users\\fede\\desktop\\facu\\proyectos\\repositoryfacturation\\repositoryfacturation\\data\\billsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|solutionrelative:repositoryfacturation\\data\\billsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|c:\\users\\fede\\desktop\\facu\\proyectos\\repositoryfacturation\\repositoryfacturation\\data\\ibills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|solutionrelative:repositoryfacturation\\data\\ibills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|c:\\users\\fede\\desktop\\facu\\proyectos\\repositoryfacturation\\repositoryfacturation\\data\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|solutionrelative:repositoryfacturation\\data\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|c:\\users\\fede\\desktop\\facu\\proyectos\\repositoryfacturation\\repositoryfacturation\\domain\\bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|solutionrelative:repositoryfacturation\\domain\\bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|c:\\users\\fede\\desktop\\facu\\proyectos\\repositoryfacturation\\repositoryfacturation\\domain\\billdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|solutionrelative:repositoryfacturation\\domain\\billdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|c:\\users\\fede\\desktop\\facu\\proyectos\\repositoryfacturation\\repositoryfacturation\\domain\\payment_methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|solutionrelative:repositoryfacturation\\domain\\payment_methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|c:\\users\\fede\\desktop\\facu\\proyectos\\repositoryfacturation\\repositoryfacturation\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|solutionrelative:repositoryfacturation\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|c:\\users\\fede\\desktop\\facu\\proyectos\\repositoryfacturation\\repositoryfacturation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|solutionrelative:repositoryfacturation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BillsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\RepositoryFacturation\\RepositoryFacturation\\Data\\BillsRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryFacturation\\Data\\BillsRepository.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\RepositoryFacturation\\RepositoryFacturation\\Data\\BillsRepository.cs",
+              "RelativeToolTip": "RepositoryFacturation\\Data\\BillsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T03:44:13.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBills.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\RepositoryFacturation\\RepositoryFacturation\\Data\\IBills.cs",
+              "RelativeDocumentMoniker": "RepositoryFacturation\\Data\\IBills.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\RepositoryFacturation\\RepositoryFacturation\\Data\\IBills.cs",
+              "RelativeToolTip": "RepositoryFacturation\\Data\\IBills.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T03:40:39.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\RepositoryFacturation\\RepositoryFacturation\\Data\\IProduct.cs",
+              "RelativeDocumentMoniker": "RepositoryFacturation\\Data\\IProduct.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\RepositoryFacturation\\RepositoryFacturation\\Data\\IProduct.cs",
+              "RelativeToolTip": "RepositoryFacturation\\Data\\IProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T03:36:37.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bills.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\RepositoryFacturation\\RepositoryFacturation\\Domain\\Bills.cs",
+              "RelativeDocumentMoniker": "RepositoryFacturation\\Domain\\Bills.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\RepositoryFacturation\\RepositoryFacturation\\Domain\\Bills.cs",
+              "RelativeToolTip": "RepositoryFacturation\\Domain\\Bills.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T03:32:03.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BillDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\RepositoryFacturation\\RepositoryFacturation\\Domain\\BillDetails.cs",
+              "RelativeDocumentMoniker": "RepositoryFacturation\\Domain\\BillDetails.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\RepositoryFacturation\\RepositoryFacturation\\Domain\\BillDetails.cs",
+              "RelativeToolTip": "RepositoryFacturation\\Domain\\BillDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T03:30:59.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Payment_Methods.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\RepositoryFacturation\\RepositoryFacturation\\Domain\\Payment_Methods.cs",
+              "RelativeDocumentMoniker": "RepositoryFacturation\\Domain\\Payment_Methods.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\RepositoryFacturation\\RepositoryFacturation\\Domain\\Payment_Methods.cs",
+              "RelativeToolTip": "RepositoryFacturation\\Domain\\Payment_Methods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T03:29:49.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\RepositoryFacturation\\RepositoryFacturation\\Domain\\Product.cs",
+              "RelativeDocumentMoniker": "RepositoryFacturation\\Domain\\Product.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\RepositoryFacturation\\RepositoryFacturation\\Domain\\Product.cs",
+              "RelativeToolTip": "RepositoryFacturation\\Domain\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T03:27:59.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\RepositoryFacturation\\RepositoryFacturation\\Program.cs",
+              "RelativeDocumentMoniker": "RepositoryFacturation\\Program.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\RepositoryFacturation\\RepositoryFacturation\\Program.cs",
+              "RelativeToolTip": "RepositoryFacturation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:43:38.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\RepositoryFacturation\\RepositoryFacturation\\Data\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryFacturation\\Data\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\RepositoryFacturation\\RepositoryFacturation\\Data\\ProductRepository.cs",
+              "RelativeToolTip": "RepositoryFacturation\\Data\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T03:44:55.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
