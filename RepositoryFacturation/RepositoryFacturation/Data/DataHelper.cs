@@ -17,7 +17,7 @@ namespace RepositoryFacturation.Data
 
         private DataHelper()
         {
-            _connection = new SqlConnection(@"Data Source=DESKTOP-OIF9LLG\SQLEXPRESS;Initial Catalog=Facturation_2025;Integrated Security=True;");
+            _connection = new SqlConnection(@"Data Source=DESKTOP-OIF9LLG\SQLEXPRESS;Initial Catalog=Facturation_2025;Integrated Security=True;Trust Server Certificate=True");
         }
         //Patron Singleton
         public static DataHelper GetInstance()
@@ -38,6 +38,17 @@ namespace RepositoryFacturation.Data
             dt.Load(cmd.ExecuteReader());
             _connection.Close();
             return dt;
+        }
+        public int ExecuteSave(string sp)
+        {
+            int filasAfectadas = 0;
+            _connection.Open();
+            var cmd =new SqlCommand();
+            cmd.CommandType = CommandType.Text;
+            cmd.CommandText = sp;
+            filasAfectadas = cmd.ExecuteNonQuery();
+            _connection.Close();
+            return filasAfectadas;
         }
     }
 }

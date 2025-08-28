@@ -11,5 +11,11 @@ namespace RepositoryFacturation.Domain
         public int Id { get; set; }
         public string N_Product { get; set; }
         public float unit_price { get; set; }
+        public int Active { get; set; }
+
+        public override string ToString()
+        {
+            return  Id + " - " + N_Product +" - " + unit_price + " - " + Active;
+        }
     }
 }

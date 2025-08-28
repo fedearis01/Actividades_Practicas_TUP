@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\RepositoryFacturation\\RepositoryFacturation\\RepositoryFacturation.csproj": {}
+    "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\RepositoryFacturation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\RepositoryFacturation\\RepositoryFacturation\\RepositoryFacturation.csproj": {
+    "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\RepositoryFacturation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\RepositoryFacturation\\RepositoryFacturation\\RepositoryFacturation.csproj",
+        "projectUniqueName": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\RepositoryFacturation.csproj",
         "projectName": "RepositoryFacturation",
-        "projectPath": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\RepositoryFacturation\\RepositoryFacturation\\RepositoryFacturation.csproj",
+        "projectPath": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\RepositoryFacturation.csproj",
         "packagesPath": "C:\\Users\\Fede\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\RepositoryFacturation\\RepositoryFacturation\\obj\\",
+        "outputPath": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,6 +1,7 @@
 ﻿using RepositoryFacturation.Domain;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,22 +10,51 @@ namespace RepositoryFacturation.Data
 {
     public class ProductRepository : IProduct
     {
-        public int Delete(int id)
+        int IProduct.Delete(int id)
         {
-            throw new NotImplementedException();
+            string sp = "SP_DELETE_PRODUCT";
+            int rowact = DataHelper.GetInstance().ExecuteSave(sp);
+            return rowact;
         }
 
-        public List<Product> Get()
+        List<Product> IProduct.Get()
         {
-            throw new NotImplementedException();
+            
+            List<Product> lstp = new List<Product>();
+            var DT = DataHelper.GetInstance().ExecuteQuery("SP_GETALL_PRODUCTS");
+            foreach (DataRow row in DT.Rows)
+            {
+                Product p = new Product();
+                p.Id = (int)row["id_product"];
+                p.N_Product = row["n_prod"].ToString();
+                p.unit_price = Convert.ToSingle(row["unit_price"]);
+                p.Active = (int)row["active"];
+                lstp.Add(p);
+            }
+            return lstp;
         }
 
-        public List<Product> GetById(int id)
+        List<Product> IProduct.GetById(int id)
         {
-            throw new NotImplementedException();
+            List<Product> lstp = new List<Product> ();
+            var dt = DataHelper.GetInstance().ExecuteQuery("SP_GETBYID_PRODUCTS");
+
+            
+            foreach (DataRow row in dt.Rows)
+            {
+                Product p = new Product();
+                p.Id = id;
+                p.N_Product = row["n_prod"].ToString();
+                p.unit_price = (float)row["unit_price"];
+                p.Active = (int)row["active"];
+                lstp.Add(p);
+            }
+            return lstp;
+                
+            
         }
 
-        public int Save()
+        int IProduct.Save()
         {
             throw new NotImplementedException();
         }

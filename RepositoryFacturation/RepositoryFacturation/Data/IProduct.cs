@@ -9,10 +9,10 @@ namespace RepositoryFacturation.Data
 {
     public interface IProduct
     {
-        public List<Product> Get();
-        public int Save();
-        public int Delete(int id);
+        List<Product> Get();
+        int Save();
+        int Delete(int id);
 
-        public List<Product> GetById(int id);
+        List<Product> GetById(int id);
     }
 }
