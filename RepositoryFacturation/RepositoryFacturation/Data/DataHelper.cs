@@ -46,13 +46,21 @@ namespace RepositoryFacturation.Data
             _connection.Close();
             return dt;
         }
-        public int ExecuteSave(string sp)
+        public int ExecuteSave(string sp,List<ParameterSP>? lp = null)
         {
             int filasAfectadas = 0;
             _connection.Open();
-            var cmd =new SqlCommand();
-            cmd.CommandType = CommandType.Text;
+            var cmd =new SqlCommand(sp,_connection);
+            cmd.CommandType = CommandType.StoredProcedure;
             cmd.CommandText = sp;
+            if (lp != null)
+            {
+                foreach (ParameterSP param in lp)
+                {
+                    cmd.Parameters.AddWithValue(param.Name, param.Value);
+                }
+            }
+
             filasAfectadas = cmd.ExecuteNonQuery();
             _connection.Close();
             return filasAfectadas;

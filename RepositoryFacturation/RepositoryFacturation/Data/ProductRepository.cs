@@ -13,7 +13,15 @@ namespace RepositoryFacturation.Data
         public int Delete(int id)
         {
             string sp = "SP_DELETE_PRODUCT";
-            int rowact = DataHelper.GetInstance().ExecuteSave(sp);
+            List<ParameterSP> lp = new List<ParameterSP>();
+            {
+                lp.Add(new ParameterSP()
+                {
+                    Name = @"id",
+                    Value = id
+                });
+            }
+            int rowact = DataHelper.GetInstance().ExecuteSave(sp,lp);
             return rowact;
         }
 

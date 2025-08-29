@@ -25,6 +25,11 @@ namespace RepositoryFacturation.Services
         {
             return _repository.GetById(id);
         }
+
+        public int DeleteProduct(int id)
+        {
+            return _repository.Delete(id);
+        }
         
         
     }
