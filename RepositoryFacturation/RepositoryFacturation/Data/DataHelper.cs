@@ -28,13 +28,20 @@ namespace RepositoryFacturation.Data
             }
             return _instance;  
         }
-        public DataTable ExecuteQuery(string sp)
+        public DataTable ExecuteQuery(string sp,List<ParameterSP>? p = null)
         {
             DataTable dt = new DataTable();
             _connection.Open();
             var cmd = new SqlCommand(sp,_connection);
-            cmd.CommandType = CommandType.Text;
+            cmd.CommandType = CommandType.StoredProcedure;
             cmd.CommandText = sp;
+            if (p != null) 
+            {
+                foreach (ParameterSP param in p)
+                {
+                    cmd.Parameters.AddWithValue(param.Name,param.Value);
+                }
+            }
             dt.Load(cmd.ExecuteReader());
             _connection.Close();
             return dt;

@@ -20,6 +20,11 @@ namespace RepositoryFacturation.Services
         {
             return _repository.Get();
         }
+
+        public Product GetPById(int id) 
+        {
+            return _repository.GetById(id);
+        }
         
         
     }

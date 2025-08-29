@@ -10,14 +10,14 @@ namespace RepositoryFacturation.Data
 {
     public class ProductRepository : IProduct
     {
-        int IProduct.Delete(int id)
+        public int Delete(int id)
         {
             string sp = "SP_DELETE_PRODUCT";
             int rowact = DataHelper.GetInstance().ExecuteSave(sp);
             return rowact;
         }
 
-        List<Product> IProduct.Get()
+        public List<Product> Get()
         {
             
             List<Product> lstp = new List<Product>();
@@ -34,22 +34,35 @@ namespace RepositoryFacturation.Data
             return lstp;
         }
 
-        List<Product> IProduct.GetById(int id)
+        public Product? GetById(int id)
         {
-            List<Product> lstp = new List<Product> ();
-            var dt = DataHelper.GetInstance().ExecuteQuery("SP_GETBYID_PRODUCTS");
-
+            List<ParameterSP> lp = new List<ParameterSP>();
+            {
+                lp.Add(new ParameterSP()
+                {
+                    Name = @"id",
+                    Value = id });
             
-            foreach (DataRow row in dt.Rows)
+            
+                
+            }
+            var dt = DataHelper.GetInstance().ExecuteQuery("SP_GETBYID_PRODUCTS",lp);
+            if (dt != null && dt.Rows.Count >0)
             {
                 Product p = new Product();
-                p.Id = id;
-                p.N_Product = row["n_prod"].ToString();
-                p.unit_price = (float)row["unit_price"];
-                p.Active = (int)row["active"];
-                lstp.Add(p);
+                {
+                    p.Id = (int)dt.Rows[0]["id_product"];
+                    p.N_Product = dt.Rows[0]["n_prod"].ToString();
+                    p.unit_price = Convert.ToSingle(dt.Rows[0]["unit_price"]);
+                    p.Active = (int)dt.Rows[0]["active"];
+
+                };
+                return p;
+               
             }
-            return lstp;
+            return null;
+
+            
                 
             
         }

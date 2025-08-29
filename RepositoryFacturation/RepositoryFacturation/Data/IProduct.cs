@@ -13,6 +13,6 @@ namespace RepositoryFacturation.Data
         int Save();
         int Delete(int id);
 
-        List<Product> GetById(int id);
+        Product? GetById(int id);
     }
 }

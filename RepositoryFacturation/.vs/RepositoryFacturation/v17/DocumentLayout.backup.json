@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|c:\\users\\fede\\desktop\\practica_git\\actividades_practicas_tup\\repositoryfacturation\\repositoryfacturation\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|solutionrelative:repositoryfacturation\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|c:\\users\\fede\\desktop\\practica_git\\actividades_practicas_tup\\repositoryfacturation\\repositoryfacturation\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|solutionrelative:repositoryfacturation\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|c:\\users\\fede\\desktop\\practica_git\\actividades_practicas_tup\\repositoryfacturation\\repositoryfacturation\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|solutionrelative:repositoryfacturation\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|c:\\users\\fede\\desktop\\practica_git\\actividades_practicas_tup\\repositoryfacturation\\repositoryfacturation\\data\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|solutionrelative:repositoryfacturation\\data\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|c:\\users\\fede\\desktop\\practica_git\\actividades_practicas_tup\\repositoryfacturation\\repositoryfacturation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|solutionrelative:repositoryfacturation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|c:\\users\\fede\\desktop\\practica_git\\actividades_practicas_tup\\repositoryfacturation\\repositoryfacturation\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|solutionrelative:repositoryfacturation\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|c:\\users\\fede\\desktop\\practica_git\\actividades_practicas_tup\\repositoryfacturation\\repositoryfacturation\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|solutionrelative:repositoryfacturation\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|c:\\users\\fede\\desktop\\practica_git\\actividades_practicas_tup\\repositoryfacturation\\repositoryfacturation\\data\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|solutionrelative:repositoryfacturation\\data\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|c:\\users\\fede\\desktop\\practica_git\\actividades_practicas_tup\\repositoryfacturation\\repositoryfacturation\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|solutionrelative:repositoryfacturation\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|c:\\users\\fede\\desktop\\practica_git\\actividades_practicas_tup\\repositoryfacturation\\repositoryfacturation\\data\\parametersp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|solutionrelative:repositoryfacturation\\data\\parametersp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BA0D26A-F720-4248-B499-D01196B18A4B}|RepositoryFacturation\\RepositoryFacturation.csproj|c:\\users\\fede\\desktop\\practica_git\\actividades_practicas_tup\\repositoryfacturation\\repositoryfacturation\\data\\billsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,24 +58,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "ParameterSP.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\Data\\ParameterSP.cs",
+              "RelativeDocumentMoniker": "RepositoryFacturation\\Data\\ParameterSP.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\Data\\ParameterSP.cs",
+              "RelativeToolTip": "RepositoryFacturation\\Data\\ParameterSP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T22:14:20.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "DataHelper.cs",
               "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\Data\\DataHelper.cs",
               "RelativeDocumentMoniker": "RepositoryFacturation\\Data\\DataHelper.cs",
               "ToolTip": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\Data\\DataHelper.cs",
               "RelativeToolTip": "RepositoryFacturation\\Data\\DataHelper.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBMAAACsAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T20:39:39.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IBills.cs",
               "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\Data\\IBills.cs",
               "RelativeDocumentMoniker": "RepositoryFacturation\\Data\\IBills.cs",
@@ -83,20 +112,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IProduct.cs",
               "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\Data\\IProduct.cs",
               "RelativeDocumentMoniker": "RepositoryFacturation\\Data\\IProduct.cs",
               "ToolTip": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\Data\\IProduct.cs",
               "RelativeToolTip": "RepositoryFacturation\\Data\\IProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T03:36:37.224Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Bills.cs",
               "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\Domain\\Bills.cs",
               "RelativeDocumentMoniker": "RepositoryFacturation\\Domain\\Bills.cs",
@@ -108,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "BillDetails.cs",
               "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\Domain\\BillDetails.cs",
               "RelativeDocumentMoniker": "RepositoryFacturation\\Domain\\BillDetails.cs",
@@ -120,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Payment_Methods.cs",
               "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\Domain\\Payment_Methods.cs",
               "RelativeDocumentMoniker": "RepositoryFacturation\\Domain\\Payment_Methods.cs",
@@ -132,46 +161,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\Domain\\Product.cs",
               "RelativeDocumentMoniker": "RepositoryFacturation\\Domain\\Product.cs",
               "ToolTip": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\Domain\\Product.cs",
               "RelativeToolTip": "RepositoryFacturation\\Domain\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T03:27:59.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\Program.cs",
               "RelativeDocumentMoniker": "RepositoryFacturation\\Program.cs",
               "ToolTip": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\Program.cs",
               "RelativeToolTip": "RepositoryFacturation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T02:43:38.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\Data\\ProductRepository.cs",
               "RelativeDocumentMoniker": "RepositoryFacturation\\Data\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\Data\\ProductRepository.cs",
-              "RelativeToolTip": "RepositoryFacturation\\Data\\ProductRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\Data\\ProductRepository.cs*",
+              "RelativeToolTip": "RepositoryFacturation\\Data\\ProductRepository.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T03:44:55.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "BillsRepository.cs",
               "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\Data\\BillsRepository.cs",
               "RelativeDocumentMoniker": "RepositoryFacturation\\Data\\BillsRepository.cs",
@@ -179,18 +208,17 @@
               "RelativeToolTip": "RepositoryFacturation\\Data\\BillsRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T03:44:13.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T03:44:13.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ProductServices.cs",
               "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\Services\\ProductServices.cs",
               "RelativeDocumentMoniker": "RepositoryFacturation\\Services\\ProductServices.cs",
               "ToolTip": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\RepositoryFacturation\\RepositoryFacturation\\Services\\ProductServices.cs",
               "RelativeToolTip": "RepositoryFacturation\\Services\\ProductServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T21:41:50.09Z",
               "EditorCaption": ""
