@@ -21,13 +21,13 @@ namespace RepositoryFacturation.Data
                     Value = id
                 });
             }
-            int rowact = DataHelper.GetInstance().ExecuteSave(sp,lp);
+            int rowact = DataHelper.GetInstance().ExecuteSave(sp, lp);
             return rowact;
         }
 
         public List<Product> Get()
         {
-            
+
             List<Product> lstp = new List<Product>();
             var DT = DataHelper.GetInstance().ExecuteQuery("SP_GETALL_PRODUCTS");
             foreach (DataRow row in DT.Rows)
@@ -49,13 +49,14 @@ namespace RepositoryFacturation.Data
                 lp.Add(new ParameterSP()
                 {
                     Name = @"id",
-                    Value = id });
-            
-            
-                
+                    Value = id
+                });
+
+
+
             }
-            var dt = DataHelper.GetInstance().ExecuteQuery("SP_GETBYID_PRODUCTS",lp);
-            if (dt != null && dt.Rows.Count >0)
+            var dt = DataHelper.GetInstance().ExecuteQuery("SP_GETBYID_PRODUCTS", lp);
+            if (dt != null && dt.Rows.Count > 0)
             {
                 Product p = new Product();
                 {
@@ -64,20 +65,49 @@ namespace RepositoryFacturation.Data
                     p.unit_price = Convert.ToSingle(dt.Rows[0]["unit_price"]);
                     p.Active = (int)dt.Rows[0]["active"];
 
-                };
+                }
+                ;
                 return p;
-               
+
             }
             return null;
 
-            
-                
-            
+
+
+
         }
 
-        int IProduct.Save()
+        int IProduct.Save(Product p)
         {
-            throw new NotImplementedException();
+            string sp = "SP_SAVE_PRODUCTS";
+            List<ParameterSP> lp = new List<ParameterSP>();
+            if (p != null)
+            {
+                {
+                    lp.Add(new ParameterSP()
+                    {
+                        Name = @"id",
+                        Value = p.Id
+                    });
+                    lp.Add(new ParameterSP()
+                    {
+                        Name = @"name",
+                        Value = p.N_Product
+                    });
+                    lp.Add(new ParameterSP()
+                    {
+                        Name = @"price",
+                        Value = p.unit_price
+                    });
+                    lp.Add(new ParameterSP()
+                    {
+                        Name = @"active",
+                        Value = p.Active
+                    });
+                }
+            }
+            int rowact = DataHelper.GetInstance().ExecuteSave(sp, lp);
+            return rowact;
         }
     }
 }

@@ -31,6 +31,8 @@ namespace RepositoryFacturation.Services
             return _repository.Delete(id);
         }
         
+        public int SaveProduct(Product p)
+            { return _repository.Save(p); }
         
     }
 }

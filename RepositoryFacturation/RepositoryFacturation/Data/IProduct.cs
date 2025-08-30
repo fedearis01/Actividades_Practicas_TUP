@@ -10,7 +10,7 @@ namespace RepositoryFacturation.Data
     public interface IProduct
     {
         List<Product> Get();
-        int Save();
+        int Save(Product p);
         int Delete(int id);
 
         Product? GetById(int id);
