@@ -10,10 +10,14 @@ namespace RepositoryFacturation.Data
     public interface IBills
     {
         public List<Bills> Get();
-        public List<Bills> GetById(int id);
-        public int Save();
+        public Bills? GetById(int id);
+        public int Save(Bills b);
         public int Delete(int id);
 
-        public List<Bills> GetByDate();
+        public List<Payment_Methods> GetPaymentMethods();
+
+        public List<BillDetails> GetBillDetails();
+
+        public Bills? GetByDate(DateTime date);
     }
 }

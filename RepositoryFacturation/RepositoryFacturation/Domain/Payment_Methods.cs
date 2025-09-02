@@ -10,5 +10,10 @@ namespace RepositoryFacturation.Domain
     {
         public int Id { get; set; }
         public string N_paym_meth { get; set; }
+
+        public override string ToString()
+        {
+            return Id + " - " + N_paym_meth;
+        }
     }
 }
