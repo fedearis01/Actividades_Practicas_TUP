@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RepositoryFacturation.Data
+namespace RepositoryFacturation.Data.Interfaces
 {
     public interface IProduct
     {

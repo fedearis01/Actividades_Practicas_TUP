@@ -13,7 +13,7 @@ namespace RepositoryFacturation.Domain
         public int Paym_meth { get; set; }
         public string Client { get; set; }
 
-        public int id_det { get; set; }
+        public List<BillDetails>? id_det { get; set; }
 
         public int Cancelled { get; set; }
 

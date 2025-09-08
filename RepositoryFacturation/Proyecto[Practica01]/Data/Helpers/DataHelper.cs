@@ -6,9 +6,10 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Data.SqlClient;
 using Microsoft.Data.SqlClient.Server;
+using RepositoryFacturation.Domain;
 
 
-namespace RepositoryFacturation.Data
+namespace Proyecto_Practica01_.Data.Helpers
 {
     public class DataHelper
     {
@@ -64,6 +65,56 @@ namespace RepositoryFacturation.Data
             filasAfectadas = cmd.ExecuteNonQuery();
             _connection.Close();
             return filasAfectadas;
+        }
+
+        public bool ExecuteTransactionSp(Bills b)
+        {
+            _connection.Open();
+            SqlTransaction t = _connection.BeginTransaction();
+
+            var cmd =new SqlCommand("SP_SAVE_BILLS",_connection,t);
+            cmd.CommandType = CommandType.StoredProcedure;
+
+            cmd.Parameters.AddWithValue(@"id", b.N_Bill);
+            cmd.Parameters.AddWithValue(@"date", b.Date_bill);
+            cmd.Parameters.AddWithValue(@"client", b.Client);
+            cmd.Parameters.AddWithValue(@"id_pm", b.Paym_meth);
+            cmd.Parameters.AddWithValue(@"id_det", b.id_det);
+            cmd.Parameters.AddWithValue(@"cancelled", b.Cancelled);
+
+           int filasaf = cmd.ExecuteNonQuery();
+            if (filasaf <= 0)
+            {
+                t.Rollback();
+                return false;
+            }
+
+            else
+            {
+                foreach(BillDetails b1 in b.id_det)
+                {
+                    SqlCommand billdetail = new SqlCommand("SP_SAVE_BILLSDETAILS", _connection, t);
+                    billdetail.CommandType = CommandType.StoredProcedure;
+                    int codigo = 1;
+                    billdetail.Parameters.AddWithValue(@"id_product", b1.Product);
+                    billdetail.Parameters.AddWithValue(@"amount",b1.Amount);
+
+                    int afectedrow = billdetail.ExecuteNonQuery();
+
+                    if (afectedrow <= 0)
+                    {
+                        t.Rollback();
+                        return false;
+                    }
+
+                }
+                t.Commit();
+
+                return true;
+
+            }
+
+
         }
     }
 }

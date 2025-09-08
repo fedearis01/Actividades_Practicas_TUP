@@ -1,4 +1,5 @@
-﻿using RepositoryFacturation.Domain;
+﻿using RepositoryFacturation.Data.Interfaces;
+using RepositoryFacturation.Domain;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -6,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RepositoryFacturation.Data
+namespace RepositoryFacturation.Data.Repositories
 {
     public class BillsRepository : IBills
     {

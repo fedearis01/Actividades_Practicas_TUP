@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RepositoryFacturation.Data
+namespace Proyecto_Practica01_.Data.Helpers
 {
     public class ParameterSP
     {
         public string Name { get; set; }
-        public Object Value { get; set; }
+        public object Value { get; set; }
     }
 }
