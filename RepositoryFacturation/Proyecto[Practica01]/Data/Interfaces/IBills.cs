@@ -11,7 +11,7 @@ namespace RepositoryFacturation.Data.Interfaces
     {
         public List<Bills> Get();
         public Bills? GetById(int id);
-        public int Save(Bills b);
+        public bool Save(Bills b);
         public int Delete(int id);
 
         public List<Payment_Methods> GetPaymentMethods();

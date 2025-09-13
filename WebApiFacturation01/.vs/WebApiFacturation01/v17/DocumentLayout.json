@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\WebApiFacturation01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C3372F-58A4-0CF5-42AD-4E56D2BC80D9}|..\\Practica01\\Practica01\\Practica01.csproj|c:\\users\\fede\\desktop\\facu\\proyectos\\practica01\\practica01\\data\\repositories\\billsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C3372F-58A4-0CF5-42AD-4E56D2BC80D9}|..\\Practica01\\Practica01\\Practica01.csproj|c:\\users\\fede\\desktop\\facu\\proyectos\\practica01\\practica01\\data\\dataapi\\dataapiimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C3372F-58A4-0CF5-42AD-4E56D2BC80D9}|..\\Practica01\\Practica01\\Practica01.csproj|c:\\users\\fede\\desktop\\facu\\proyectos\\practica01\\practica01\\data\\dataapi\\idataapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3428C09-6296-437C-B6E8-48810B7A71E3}|WebApiFacturation01\\WebApiFacturation01.csproj|c:\\users\\fede\\desktop\\facu\\proyectos\\webapifacturation01\\webapifacturation01\\controllers\\billscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3428C09-6296-437C-B6E8-48810B7A71E3}|WebApiFacturation01\\WebApiFacturation01.csproj|solutionrelative:webapifacturation01\\controllers\\billscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3428C09-6296-437C-B6E8-48810B7A71E3}|WebApiFacturation01\\WebApiFacturation01.csproj|c:\\users\\fede\\desktop\\facu\\proyectos\\webapifacturation01\\webapifacturation01\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3428C09-6296-437C-B6E8-48810B7A71E3}|WebApiFacturation01\\WebApiFacturation01.csproj|solutionrelative:webapifacturation01\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C3372F-58A4-0CF5-42AD-4E56D2BC80D9}|..\\Practica01\\Practica01\\Practica01.csproj|c:\\users\\fede\\desktop\\facu\\proyectos\\practica01\\practica01\\data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3428C09-6296-437C-B6E8-48810B7A71E3}|WebApiFacturation01\\WebApiFacturation01.csproj|c:\\users\\fede\\desktop\\facu\\proyectos\\webapifacturation01\\webapifacturation01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3428C09-6296-437C-B6E8-48810B7A71E3}|WebApiFacturation01\\WebApiFacturation01.csproj|solutionrelative:webapifacturation01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C3372F-58A4-0CF5-42AD-4E56D2BC80D9}|..\\Practica01\\Practica01\\Practica01.csproj|c:\\users\\fede\\desktop\\facu\\proyectos\\practica01\\practica01\\data\\helpers\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C3372F-58A4-0CF5-42AD-4E56D2BC80D9}|..\\Practica01\\Practica01\\Practica01.csproj|c:\\users\\fede\\desktop\\facu\\proyectos\\practica01\\practica01\\domain\\bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BillsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\Practica01\\Practica01\\Data\\Repositories\\BillsRepository.cs",
+              "RelativeDocumentMoniker": "..\\Practica01\\Practica01\\Data\\Repositories\\BillsRepository.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\Practica01\\Practica01\\Data\\Repositories\\BillsRepository.cs",
+              "RelativeToolTip": "..\\Practica01\\Practica01\\Data\\Repositories\\BillsRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T00:38:31.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BillsController.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\WebApiFacturation01\\WebApiFacturation01\\Controllers\\BillsController.cs",
+              "RelativeDocumentMoniker": "WebApiFacturation01\\Controllers\\BillsController.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\WebApiFacturation01\\WebApiFacturation01\\Controllers\\BillsController.cs",
+              "RelativeToolTip": "WebApiFacturation01\\Controllers\\BillsController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T00:30:27.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataApiImp.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\Practica01\\Practica01\\Data\\DataApi\\DataApiImp.cs",
+              "RelativeDocumentMoniker": "..\\Practica01\\Practica01\\Data\\DataApi\\DataApiImp.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\Practica01\\Practica01\\Data\\DataApi\\DataApiImp.cs",
+              "RelativeToolTip": "..\\Practica01\\Practica01\\Data\\DataApi\\DataApiImp.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T00:09:49.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDataApi.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\Practica01\\Practica01\\Data\\DataApi\\IDataApi.cs",
+              "RelativeDocumentMoniker": "..\\Practica01\\Practica01\\Data\\DataApi\\IDataApi.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\Practica01\\Practica01\\Data\\DataApi\\IDataApi.cs",
+              "RelativeToolTip": "..\\Practica01\\Practica01\\Data\\DataApi\\IDataApi.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAASwBYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T00:09:27.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\Practica01\\Practica01\\Data\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Practica01\\Practica01\\Data\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\Practica01\\Practica01\\Data\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "..\\Practica01\\Practica01\\Data\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T17:49:11.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\WebApiFacturation01\\WebApiFacturation01\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiFacturation01\\Program.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\WebApiFacturation01\\WebApiFacturation01\\Program.cs",
+              "RelativeToolTip": "WebApiFacturation01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T17:33:45.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\Practica01\\Practica01\\Data\\Helpers\\DataHelper.cs",
+              "RelativeDocumentMoniker": "..\\Practica01\\Practica01\\Data\\Helpers\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\Practica01\\Practica01\\Data\\Helpers\\DataHelper.cs",
+              "RelativeToolTip": "..\\Practica01\\Practica01\\Data\\Helpers\\DataHelper.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAADwv18AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T17:30:55.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bills.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\Practica01\\Practica01\\Domain\\Bills.cs",
+              "RelativeDocumentMoniker": "..\\Practica01\\Practica01\\Domain\\Bills.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\Practica01\\Practica01\\Domain\\Bills.cs",
+              "RelativeToolTip": "..\\Practica01\\Practica01\\Domain\\Bills.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T17:30:32.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\WebApiFacturation01\\WebApiFacturation01\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApiFacturation01\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Facu\\proyectos\\WebApiFacturation01\\WebApiFacturation01\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApiFacturation01\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwHAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T17:29:55.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 ﻿using RepositoryFacturation.Data.Interfaces;
+using RepositoryFacturation.Data;
 using RepositoryFacturation.Domain;
 using System;
 using System.Collections.Generic;
@@ -185,47 +186,10 @@ namespace RepositoryFacturation.Data.Repositories
             return lpm;
         }
 
-        public int Save(Bills b)
+        public bool Save(Bills b)
         {
-            string sp = "SP_SAVE_BILLS";
-            List<ParameterSP> lp = new List<ParameterSP>();
-            if (b != null)
-            {
-                {
-                    lp.Add(new ParameterSP()
-                    {
-                        Name = @"id",
-                        Value = b.N_Bill
-                    });
-                    lp.Add(new ParameterSP()
-                    {
-                        Name = @"date",
-                        Value = b.Date_bill
-                    });
-                    lp.Add(new ParameterSP()
-                    {
-                        Name = @"client",
-                        Value = b.Client
-                    });
-                    lp.Add(new ParameterSP()
-                    {
-                        Name = @"id_pm",
-                        Value = b.Paym_meth
-                    });
-                    lp.Add(new ParameterSP()
-                    {
-                        Name = @"id_det",
-                        Value = b.id_det
-                    });
-                    lp.Add(new ParameterSP()
-                    {
-                        Name = @"cancelled",
-                        Value = b.Cancelled
-                    });
-
-                }
-            }
-            int rowact = DataHelper.GetInstance().ExecuteSave(sp, lp);
+            
+            bool rowact = DataHelper.GetInstance().ExecuteTransactionSp(b);
             return rowact;
         }
     }

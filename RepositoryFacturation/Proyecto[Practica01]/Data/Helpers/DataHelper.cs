@@ -79,7 +79,6 @@ namespace Proyecto_Practica01_.Data.Helpers
             cmd.Parameters.AddWithValue(@"date", b.Date_bill);
             cmd.Parameters.AddWithValue(@"client", b.Client);
             cmd.Parameters.AddWithValue(@"id_pm", b.Paym_meth);
-            cmd.Parameters.AddWithValue(@"id_det", b.id_det);
             cmd.Parameters.AddWithValue(@"cancelled", b.Cancelled);
 
            int filasaf = cmd.ExecuteNonQuery();
@@ -91,7 +90,7 @@ namespace Proyecto_Practica01_.Data.Helpers
 
             else
             {
-                foreach(BillDetails b1 in b.id_det)
+                foreach(BillDetails b1 in b.detalles)
                 {
                     SqlCommand billdetail = new SqlCommand("SP_SAVE_BILLSDETAILS", _connection, t);
                     billdetail.CommandType = CommandType.StoredProcedure;

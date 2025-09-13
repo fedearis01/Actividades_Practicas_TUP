@@ -1,0 +1,6 @@
+C:\Users\Fede\Desktop\Practica_git\Actividades_Practicas_TUP\RepositoryFacturation\Proyecto[Practica01]\obj\Debug\net8.0\Proyecto[Practica01].csproj.AssemblyReference.cache
+C:\Users\Fede\Desktop\Practica_git\Actividades_Practicas_TUP\RepositoryFacturation\Proyecto[Practica01]\obj\Debug\net8.0\Proyecto[Practica01].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fede\Desktop\Practica_git\Actividades_Practicas_TUP\RepositoryFacturation\Proyecto[Practica01]\obj\Debug\net8.0\Proyecto[Practica01].AssemblyInfoInputs.cache
+C:\Users\Fede\Desktop\Practica_git\Actividades_Practicas_TUP\RepositoryFacturation\Proyecto[Practica01]\obj\Debug\net8.0\Proyecto[Practica01].AssemblyInfo.cs
+C:\Users\Fede\Desktop\Practica_git\Actividades_Practicas_TUP\RepositoryFacturation\Proyecto[Practica01]\obj\Debug\net8.0\Proyecto[Practica01].csproj.CoreCompileInputs.cache
+C:\Users\Fede\Desktop\Practica_git\Actividades_Practicas_TUP\RepositoryFacturation\Proyecto[Practica01]\obj\Debug\net8.0\Proyecto[Practica01].sourcelink.json
