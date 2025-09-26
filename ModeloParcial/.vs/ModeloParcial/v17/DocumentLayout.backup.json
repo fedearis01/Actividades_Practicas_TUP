@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\ModeloParcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDEC47C-8DD1-4EEF-AAEE-AC3E6829DE2D}|ModeloParcial\\ModeloParcial.csproj|c:\\users\\fede\\desktop\\practica_git\\actividades_practicas_tup\\modeloparcial\\modeloparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDEC47C-8DD1-4EEF-AAEE-AC3E6829DE2D}|ModeloParcial\\ModeloParcial.csproj|solutionrelative:modeloparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDEC47C-8DD1-4EEF-AAEE-AC3E6829DE2D}|ModeloParcial\\ModeloParcial.csproj|c:\\users\\fede\\desktop\\practica_git\\actividades_practicas_tup\\modeloparcial\\modeloparcial\\services\\ienvioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDEC47C-8DD1-4EEF-AAEE-AC3E6829DE2D}|ModeloParcial\\ModeloParcial.csproj|solutionrelative:modeloparcial\\services\\ienvioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDEC47C-8DD1-4EEF-AAEE-AC3E6829DE2D}|ModeloParcial\\ModeloParcial.csproj|c:\\users\\fede\\desktop\\practica_git\\actividades_practicas_tup\\modeloparcial\\modeloparcial\\services\\envioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDEC47C-8DD1-4EEF-AAEE-AC3E6829DE2D}|ModeloParcial\\ModeloParcial.csproj|solutionrelative:modeloparcial\\services\\envioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDEC47C-8DD1-4EEF-AAEE-AC3E6829DE2D}|ModeloParcial\\ModeloParcial.csproj|c:\\users\\fede\\desktop\\practica_git\\actividades_practicas_tup\\modeloparcial\\modeloparcial\\controllers\\envioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDEC47C-8DD1-4EEF-AAEE-AC3E6829DE2D}|ModeloParcial\\ModeloParcial.csproj|solutionrelative:modeloparcial\\controllers\\envioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDEC47C-8DD1-4EEF-AAEE-AC3E6829DE2D}|ModeloParcial\\ModeloParcial.csproj|c:\\users\\fede\\desktop\\practica_git\\actividades_practicas_tup\\modeloparcial\\modeloparcial\\repositories\\enviorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDEC47C-8DD1-4EEF-AAEE-AC3E6829DE2D}|ModeloParcial\\ModeloParcial.csproj|solutionrelative:modeloparcial\\repositories\\enviorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDEC47C-8DD1-4EEF-AAEE-AC3E6829DE2D}|ModeloParcial\\ModeloParcial.csproj|c:\\users\\fede\\desktop\\practica_git\\actividades_practicas_tup\\modeloparcial\\modeloparcial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FDEC47C-8DD1-4EEF-AAEE-AC3E6829DE2D}|ModeloParcial\\ModeloParcial.csproj|solutionrelative:modeloparcial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDEC47C-8DD1-4EEF-AAEE-AC3E6829DE2D}|ModeloParcial\\ModeloParcial.csproj|c:\\users\\fede\\desktop\\practica_git\\actividades_practicas_tup\\modeloparcial\\modeloparcial\\repositories\\ienviorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDEC47C-8DD1-4EEF-AAEE-AC3E6829DE2D}|ModeloParcial\\ModeloParcial.csproj|solutionrelative:modeloparcial\\repositories\\ienviorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDEC47C-8DD1-4EEF-AAEE-AC3E6829DE2D}|ModeloParcial\\ModeloParcial.csproj|c:\\users\\fede\\desktop\\practica_git\\actividades_practicas_tup\\modeloparcial\\modeloparcial\\modeloparcial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4FDEC47C-8DD1-4EEF-AAEE-AC3E6829DE2D}|ModeloParcial\\ModeloParcial.csproj|solutionrelative:modeloparcial\\modeloparcial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDEC47C-8DD1-4EEF-AAEE-AC3E6829DE2D}|ModeloParcial\\ModeloParcial.csproj|c:\\users\\fede\\desktop\\practica_git\\actividades_practicas_tup\\modeloparcial\\modeloparcial\\models\\enviocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDEC47C-8DD1-4EEF-AAEE-AC3E6829DE2D}|ModeloParcial\\ModeloParcial.csproj|solutionrelative:modeloparcial\\models\\enviocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\ModeloParcial\\ModeloParcial\\Program.cs",
+              "RelativeDocumentMoniker": "ModeloParcial\\Program.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\ModeloParcial\\ModeloParcial\\Program.cs",
+              "RelativeToolTip": "ModeloParcial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T17:54:34.149Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnviosController.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\ModeloParcial\\ModeloParcial\\Controllers\\EnviosController.cs",
+              "RelativeDocumentMoniker": "ModeloParcial\\Controllers\\EnviosController.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\ModeloParcial\\ModeloParcial\\Controllers\\EnviosController.cs",
+              "RelativeToolTip": "ModeloParcial\\Controllers\\EnviosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:35:17.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEnvioService.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\ModeloParcial\\ModeloParcial\\Services\\IEnvioService.cs",
+              "RelativeDocumentMoniker": "ModeloParcial\\Services\\IEnvioService.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\ModeloParcial\\ModeloParcial\\Services\\IEnvioService.cs",
+              "RelativeToolTip": "ModeloParcial\\Services\\IEnvioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:25:51.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\ModeloParcial\\ModeloParcial\\appsettings.json",
+              "RelativeDocumentMoniker": "ModeloParcial\\appsettings.json",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\ModeloParcial\\ModeloParcial\\appsettings.json",
+              "RelativeToolTip": "ModeloParcial\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T17:54:46.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModeloParcial.csproj",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\ModeloParcial\\ModeloParcial\\ModeloParcial.csproj",
+              "RelativeDocumentMoniker": "ModeloParcial\\ModeloParcial.csproj",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\ModeloParcial\\ModeloParcial\\ModeloParcial.csproj",
+              "RelativeToolTip": "ModeloParcial\\ModeloParcial.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T18:46:37.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnvioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\ModeloParcial\\ModeloParcial\\Repositories\\EnvioRepository.cs",
+              "RelativeDocumentMoniker": "ModeloParcial\\Repositories\\EnvioRepository.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\ModeloParcial\\ModeloParcial\\Repositories\\EnvioRepository.cs",
+              "RelativeToolTip": "ModeloParcial\\Repositories\\EnvioRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:03:18.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEnvioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\ModeloParcial\\ModeloParcial\\Repositories\\IEnvioRepository.cs",
+              "RelativeDocumentMoniker": "ModeloParcial\\Repositories\\IEnvioRepository.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\ModeloParcial\\ModeloParcial\\Repositories\\IEnvioRepository.cs",
+              "RelativeToolTip": "ModeloParcial\\Repositories\\IEnvioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:03:01.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnvioContext.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\ModeloParcial\\ModeloParcial\\Models\\EnvioContext.cs",
+              "RelativeDocumentMoniker": "ModeloParcial\\Models\\EnvioContext.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\ModeloParcial\\ModeloParcial\\Models\\EnvioContext.cs",
+              "RelativeToolTip": "ModeloParcial\\Models\\EnvioContext.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:01:42.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnvioService.cs",
+              "DocumentMoniker": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\ModeloParcial\\ModeloParcial\\Services\\EnvioService.cs",
+              "RelativeDocumentMoniker": "ModeloParcial\\Services\\EnvioService.cs",
+              "ToolTip": "C:\\Users\\Fede\\Desktop\\Practica_git\\Actividades_Practicas_TUP\\ModeloParcial\\ModeloParcial\\Services\\EnvioService.cs",
+              "RelativeToolTip": "ModeloParcial\\Services\\EnvioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:26:05.431Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
